@@ -4,7 +4,7 @@ Welcome to the **Automated Email Sender** project! This project automates the pr
 
 ---
 
-## Features
+## ✨ Features
 
 - **Personalized Emails**: Easily customize recipient lists, subject lines, and email bodies.
 - **Secure Communication**: Leverages TLS encryption for secure email transfer.
@@ -13,7 +13,7 @@ Welcome to the **Automated Email Sender** project! This project automates the pr
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 - **Python**
   - `smtplib`: For SMTP connection and email sending.
@@ -24,7 +24,7 @@ Welcome to the **Automated Email Sender** project! This project automates the pr
 
 ---
 
-## Installation
+## 📋Installation
 
 1. **Clone the Repository**
    ```bash
@@ -55,7 +55,7 @@ Welcome to the **Automated Email Sender** project! This project automates the pr
 
 ---
 
-## Security Tips
+## 🛡️ Security Tips
 
 - Use **app-specific passwords** instead of your main email password.
 - Store credentials securely using environment variables or a vault.
@@ -63,7 +63,7 @@ Welcome to the **Automated Email Sender** project! This project automates the pr
 
 ---
 
-## Future Enhancements
+## 🚀 Future Enhancements
 
 - Add support for file attachments.
 - Incorporate HTML email templates.
@@ -71,6 +71,6 @@ Welcome to the **Automated Email Sender** project! This project automates the pr
 
 ---
 
-## Contributing
+## 🤝Contributing
 
 Contributions are welcome! Fork the repository and submit your changes via a pull request.
