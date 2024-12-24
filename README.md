@@ -28,7 +28,7 @@ Welcome to the **Automated Email Sender** project! This project automates the pr
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/automated-email-sender.git
+   git clone https://github.com/Thadkapally-Saikiran/Automated-Email-Sender-Using-Python-and-SMTP.git
    cd automated-email-sender
    ```
 
@@ -54,3 +54,23 @@ Welcome to the **Automated Email Sender** project! This project automates the pr
    ```
 
 ---
+
+## Security Tips
+
+- Use **app-specific passwords** instead of your main email password.
+- Store credentials securely using environment variables or a vault.
+- Enable two-factor authentication (2FA) for your email account.
+
+---
+
+## Future Enhancements
+
+- Add support for file attachments.
+- Incorporate HTML email templates.
+- Implement robust error handling.
+
+---
+
+## Contributing
+
+Contributions are welcome! Fork the repository and submit your changes via a pull request.
