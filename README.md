@@ -1,4 +1,4 @@
-# Automated Email Sender Using Python and SMTP
+# Automated Email Sender Using Python and SMTP 🛠️📬
 
 Welcome to the **Automated Email Sender** project! This project automates the process of sending emails using Python, making it perfect for personal and professional communication.
 
